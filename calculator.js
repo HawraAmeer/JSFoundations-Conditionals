@@ -1,6 +1,6 @@
 // Define the numbers and the operation here
-const num1 = 3;
-const num2 = 7;
+const num1 = prompt("Enter the First Number?");
+const num2 = prompt("Enter the Second Number?");
 
 const userInput = prompt("What operation you want to do? ");
 // console.log(userInput);
